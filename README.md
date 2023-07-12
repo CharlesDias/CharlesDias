@@ -9,7 +9,7 @@
 
 -  [STM32 C code and Google Test Framework](https://github.com/CharlesDias/stm32_gtest_c_code)
 -  [Bluetooth Low Energy with Zephyr RTOS and Nordic board](https://github.com/CharlesDias/BLE-Watch)
--  [Stores some applications developed with Qt5 to run on i.MX6ULL and Toradex board.](https://github.com/CharlesDias/QT-iMX6ULL)
+-  [Stores some applications developed with Qt5 to run on i.MX6ULL and Toradex board.](https://github.com/CharlesDias/Qt-on-iMX6ULL)
 
 ### 🔨 Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
