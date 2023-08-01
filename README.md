@@ -27,7 +27,7 @@
 
 <div>
   <a href="https://github.com/CharlesDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesDias&show_icons=true&theme=dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesDias&count_private=true&include_all_commits=true&show_icons=true&theme=dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesDias&layout=compact&theme=dark-mode-only"/>
 </div>
 
