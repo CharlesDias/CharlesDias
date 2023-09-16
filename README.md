@@ -2,7 +2,7 @@
 
 - 🔭 [Embedded Software Engineer at Virtus](https://www.virtus.ufcg.edu.br/)
 - 🌱 I’m currently learning Bluetooth Low Energy, Zephyr RTOS, and Modern C++
-- 📫 E-mail: charlesdias@tecnofuturo.com.br | Linkedin: <a href="https://www.linkedin.com/in/charles-dias-m-sc-6ab50527//">CharlesDias</a>
+- 📫 E-mail: charlesdias.cd@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/charles-dias-m-sc-6ab50527//">CharlesDias</a>
 - 😄 Pronouns: He/Him
 
 ### 💻 What I am currently working on
