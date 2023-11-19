@@ -5,12 +5,13 @@
 - 📫 E-mail: charlesdias.cd@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/charles-dias-m-sc-6ab50527//">CharlesDias</a>
 - 😄 Pronouns: He/Him
 
-### 💻 What I am currently working on
+### 💻 Sample Projects
 
 -  [STM32 C code and Google Test Framework](https://github.com/CharlesDias/stm32_gtest_c_code)
 -  [Bluetooth Low Energy with Zephyr RTOS and Nordic board](https://github.com/CharlesDias/BLE-Watch)
 -  [Stores some applications developed with Qt5 to run on i.MX6ULL and Toradex board.](https://github.com/CharlesDias/Qt-on-iMX6ULL)
 -  [Customize a reference Linux image with the Yocto Project to run on an iMX6ULL module provided by Toradex.](https://github.com/CharlesDias/Yocto-Project-for-iMX6ULL)
+-  [STM32H7B0 with STM32CubeIDE.](https://github.com/CharlesDias/STM32H7B0-with-STM32CubeIDE)
 
 ### 🔨 Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
