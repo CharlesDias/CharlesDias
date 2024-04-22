@@ -12,6 +12,10 @@
 
 **Pull Request:**
 
+- [Improve STM32H7B3I DK configuration to run LVGL](https://github.com/zephyrproject-rtos/zephyr/pull/68254).
+- [boards: shields: Add Seeed Studio XIAO Expansion Board](https://github.com/zephyrproject-rtos/zephyr/pull/69999).
+- [hwmv2 boards: arm: Add support for WeAct Studio MiniSTM32H743 Core board](https://github.com/zephyrproject-rtos/zephyr/pull/69267).
+- [boards: arm: fk7b0m1_vbt6: add support to external NOR Flash](https://github.com/zephyrproject-rtos/zephyr/pull/68442).
 - [boards: arm: Add support for AMR FK7B0M1-VBT6 V1.0 board](https://github.com/zephyrproject-rtos/zephyr/pull/65441)
 - [soc: arm: st_stm32: add support for STM32H7B0 SoC](https://github.com/zephyrproject-rtos/zephyr/pull/65092)
 - [samples: maxim_ds3231: increase variable size in min_alarm_handler](https://github.com/zephyrproject-rtos/zephyr/pull/65091)
