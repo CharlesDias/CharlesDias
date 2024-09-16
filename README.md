@@ -12,13 +12,14 @@
 
 **Pull Request:**
 
+- [drivers: video: Add support for STM32 DCMI](https://github.com/zephyrproject-rtos/zephyr/pull/71462).
 - [Improve STM32H7B3I DK configuration to run LVGL](https://github.com/zephyrproject-rtos/zephyr/pull/68254).
 - [boards: shields: Add Seeed Studio XIAO Expansion Board](https://github.com/zephyrproject-rtos/zephyr/pull/69999).
 - [hwmv2 boards: arm: Add support for WeAct Studio MiniSTM32H743 Core board](https://github.com/zephyrproject-rtos/zephyr/pull/69267).
 - [boards: arm: fk7b0m1_vbt6: add support to external NOR Flash](https://github.com/zephyrproject-rtos/zephyr/pull/68442).
 - [boards: arm: Add support for AMR FK7B0M1-VBT6 V1.0 board](https://github.com/zephyrproject-rtos/zephyr/pull/65441)
 - [soc: arm: st_stm32: add support for STM32H7B0 SoC](https://github.com/zephyrproject-rtos/zephyr/pull/65092)
-- [samples: maxim_ds3231: increase variable size in min_alarm_handler](https://github.com/zephyrproject-rtos/zephyr/pull/65091)
+- [Others](https://github.com/zephyrproject-rtos/zephyr/pulls?q=+is%3Apr+author%3ACharlesDias+).
 
 ### 💻 Sample Projects
 
@@ -31,6 +32,9 @@
 
 ### 📘 LinkedIn Articles
 
+### Testing and Automation for STM32 Projects
+- [Part 0 - Creating a minimal build environment with Docker.](https://www.linkedin.com/pulse/part-0-creating-minimal-build-environment-docker-dias-m-sc--pg72e/?trackingId=7utbGTGUS8afGCQS%2F%2FQLlw%3D%3D)
+  
 #### Qt5 Widgets
 - [Qt on iMX6ULL Part 0: Installation and Initial Setup.](https://www.linkedin.com/pulse/qt-imx6ull-part-0-installation-initial-setup-charles-dias-m-sc-/?trackingId=41dnKohLRuSikOXPraiOmA%3D%3D)
 - [Qt on iMX6ULL Part 1: Hello, LED On/Off.](https://www.linkedin.com/pulse/qt-imx6ull-part-1-hello-led-onoff-charles-dias-m-sc-/?trackingId=41dnKohLRuSikOXPraiOmA%3D%3D)
