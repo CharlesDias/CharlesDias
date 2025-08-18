@@ -2,7 +2,7 @@
 
 - 🔭 [Embedded Software Engineer at Virtus](https://www.virtus.ufcg.edu.br/)
 - 🌱 I’m currently learning Bluetooth Low Energy, Zephyr RTOS, and Yocto Project.
-- 📫 E-mail: charlesdias.cd@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/charles-dias-m-sc-6ab50527//">CharlesDias</a>
+- 📫 E-mail: charlesdias.cd@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/charles-dias-christian///">CharlesDias</a>
 - 😄 Pronouns: He/Him
 
 
@@ -13,6 +13,7 @@
 **Pull Request:**
 
 - [drivers: video: Add support for STM32 DCMI](https://github.com/zephyrproject-rtos/zephyr/pull/71462).
+- [Add parallel interface (DVP) support for ov5640 driver](https://github.com/zephyrproject-rtos/zephyr/pull/76124).
 - [Improve STM32H7B3I DK configuration to run LVGL](https://github.com/zephyrproject-rtos/zephyr/pull/68254).
 - [boards: shields: Add Seeed Studio XIAO Expansion Board](https://github.com/zephyrproject-rtos/zephyr/pull/69999).
 - [hwmv2 boards: arm: Add support for WeAct Studio MiniSTM32H743 Core board](https://github.com/zephyrproject-rtos/zephyr/pull/69267).
@@ -23,12 +24,12 @@
 
 ### 💻 Sample Projects
 
--  [SmartHomeNexus is an open-source smart home system.](https://github.com/CharlesDias/Smart-Home-Nexus)
 -  [STM32 C code and Google Test Framework](https://github.com/CharlesDias/stm32_gtest_c_code)
 -  [Bluetooth Low Energy with Zephyr RTOS and Nordic board](https://github.com/CharlesDias/BLE-Watch)
 -  [Stores some applications developed with Qt5 to run on i.MX6ULL and Toradex board.](https://github.com/CharlesDias/Qt-on-iMX6ULL)
 -  [Customize a reference Linux image with the Yocto Project to run on an iMX6ULL module provided by Toradex.](https://github.com/CharlesDias/Yocto-Project-for-iMX6ULL)
 -  [STM32H7B0 with STM32CubeIDE.](https://github.com/CharlesDias/STM32H7B0-with-STM32CubeIDE)
+-  [SmartHomeNexus is an open-source smart home system.](https://github.com/CharlesDias/Smart-Home-Nexus)
 
 ### 📘 LinkedIn Articles
 
