@@ -1,6 +1,6 @@
 ### 🧐 More About Me:
 
-- 🔭 [Embedded Software Engineer at Virtus](https://www.virtus.ufcg.edu.br/)
+- 🔭 [Embedded Software Engineer at Capgemini](https://www.capgemini.com/pt-en#)
 - 🌱 I’m currently learning Bluetooth Low Energy, Zephyr RTOS, and Yocto Project.
 - 📫 E-mail: charlesdias.cd@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/charles-dias-christian///">CharlesDias</a>
 - 😄 Pronouns: He/Him
