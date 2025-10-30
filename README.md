@@ -64,9 +64,10 @@
 ### 💹 Github Stats
 
 <div>
-  <a href="https://github.com/CharlesDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesDias&include_all_commits=true&show_icons=true&theme=dark-mode-only"/>
+  <!-- <a href="https://github.com/CharlesDias"> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesDias&include_all_commits=true&show_icons=true&theme=dark-mode-only"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesDias&count_private=true&layout=compact&theme=dark-mode-only"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesDias&show_icons=true&theme=transparent)
 </div>
 
 <!--
